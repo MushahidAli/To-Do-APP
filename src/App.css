@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.task-main {
+  text-align: left;
+}
+
+.task-title {
+  font-weight: bolder;
+}
+
+.add-task-btn {
+  width: 50vw;
+  padding: 5px;
+}
+
+.modal-header {
+  font-weight: bolder;
+}
+
+.error {
+  color: red !important;
+}
